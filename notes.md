@@ -24,4 +24,9 @@ These are some notes to myself to help guide implementation.
 + [linkeddata](https://github.com/linkeddata) - MIT project
     + [gold](https://github.com/linkeddata/gold) - A linked data server implementation in Golang
     + [gojsonld](https://github.com/linkeddata/gojsonld) - A json-ld server implementation in Golang
-+ [linkedup-project.eu](http://linkedup-project.eu/) - Linked Data project by the Open Knowledge Foundation folks
++ [Open Knowledge Foundation Labs](http://okfnlabs.org/) - [Github repos](https://github.com/okfn)
+    + [Facet View](http://okfnlabs.org/projects/facetview/) - JS front end to Elastric Search and Solr
+    + [bibjson](http://okfnlabs.org/bibjson/) - Bib records in JSON from Open Knowledge Foundation
+    + [bibserver](http://okfnlabs.org/projects/bibserver/) - supports bibtex, MARC, BibJSON, RDF
+    + [Recline JS Viewer for FF](http://okfnlabs.org/projects/recline-mozilla-csv-viewer/)
+    + [Data pipe implementation](https://github.com/okfn/datapipes)
