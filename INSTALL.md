@@ -1,5 +1,5 @@
 
-These are notes for a hypothetical IxIF manifest service.
+These are notes on a hypothetical IxIF manifest service.
 
 # Solr
 
