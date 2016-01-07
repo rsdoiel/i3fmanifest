@@ -1,4 +1,4 @@
-
+These are notes on a hypothetical IxIF manifest service.
 
 # Implementation notes
 
