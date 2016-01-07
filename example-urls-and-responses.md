@@ -1,4 +1,6 @@
 
+These are notes on a hypothetical IxIF manifest service.
+
 # Notes on Islandora/Solr/Fedora APIs
 
 ## client libraries Solr
