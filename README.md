@@ -1,3 +1,4 @@
+These are notes on a hypothetical IxIF manifest service.
 
 # i3fmanifest
 
