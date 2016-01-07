@@ -1,4 +1,6 @@
 
+These are notes for a hypothetical IxIF manifest service.
+
 # Solr
 
 See the [Solr](http://lucene.apache.org/solr) for instructions on installing Solr or point at the Solr deployment that came with Islandora or ArchivesSpace.
