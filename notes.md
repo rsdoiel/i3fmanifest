@@ -30,3 +30,5 @@ These are some notes to myself to help guide implementation.
     + [bibserver](http://okfnlabs.org/projects/bibserver/) - supports bibtex, MARC, BibJSON, RDF
     + [Recline JS Viewer for FF](http://okfnlabs.org/projects/recline-mozilla-csv-viewer/)
     + [Data pipe implementation](https://github.com/okfn/datapipes)
++ [Bleve](https://blevesearch.com) search library for Go
++ [Otto](https://github.com/rsdoiel/otto) forked from [Otto](https://github.com/robertkrimen/otto)
