@@ -1,4 +1,6 @@
 
+These are notes on a hypothetical IxIF manifest service.
+
 # i3fmanifest
 
     A service for generating iiif manifests for use with the Universal Viewer and Mirador from a Bleve index.

@@ -1,6 +1,8 @@
 
 # A search engine
 
+These are notes on a hypothetical IxIF manifest service.
+
 The application assumes some sort of Search engine can provide the links to resources that need a manifest. This might be something like Bleve or an
 existing Solr deployment.
 
